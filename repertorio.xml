@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <lista>
     <item>
+        <nome>APPERMONT, Bert</nome>
+        <id>appermont-bert</id>
+        <conteudo>
+            <p>Rubicon</p>
+        </conteudo>
+    </item>
+    <item>
         <nome>ARROYO, João</nome>
         <id>arroyo-joao</id>
         <conteudo>
@@ -92,6 +99,19 @@
         </conteudo>
     </item>
     <item>
+        <nome>BACH, Johann S.</nome>
+        <id>bach-johann-s</id>
+        <conteudo>
+            <p>Cantata BWV 21 (Part: Soprano)</p>
+
+            <p>Cantata BWV 61 (Part: Soprano)</p>
+            
+            <p>Cantata BWV 122 (Part: Soprano)</p>
+
+            <p>Cantata BWV 191 (Part: Soprano)</p>
+        </conteudo>
+    </item>
+    <item>
         <nome>BEACH, Amy</nome>
         <id>beach-amy</id>
         <conteudo>
@@ -101,6 +121,13 @@
                 <li>2. Ah, Love, but a day!</li>
                 <li>3. I send my heart up to thee!</li>
             </ul>
+        </conteudo>
+    </item>
+    <item>
+        <nome>BEETHOVEN, Ludwig van</nome>
+        <id>beethoven-ludwig-van</id>
+        <conteudo>
+            <p>Choral Phantasy Op. 80 (Part: Soprano)</p>
         </conteudo>
     </item>
     <item>
@@ -161,6 +188,13 @@
         </conteudo>
     </item>
     <item>
+        <nome>BOMTEMPO, Domingos João</nome>
+        <id>bomtempo-domingos-joao</id>
+        <conteudo>
+            <p>A Paz da Europa (Part: Soprano)</p>
+        </conteudo>
+    </item>
+    <item>
         <nome>BORBA, Thomaz</nome>
         <id>borba-thomaz</id>
         <conteudo>
@@ -199,6 +233,13 @@
                 <li>5. Au pied de mon lit</li>
                 <li>10. Deux ancolies</li>
             </ul>
+        </conteudo>
+    </item>
+    <item>
+        <nome>CALDARA, Antonio</nome>
+        <id>caldara-antonio</id>
+        <conteudo>
+            <p>Stabat Mater (Part: Soprano)</p>
         </conteudo>
     </item>
     <item>
@@ -286,6 +327,13 @@
         </conteudo>
     </item>
     <item>
+        <nome>DONIZETTI, Gaetano</nome>
+        <id>donizetti-gaetano</id>
+        <conteudo>
+            <p>Messa di Requiem (Part: Soprano)</p>
+        </conteudo>
+    </item>
+    <item>
         <nome>DOUGHERTY, Celius</nome>
         <id>dougherty-celius</id>
         <conteudo>
@@ -296,6 +344,8 @@
         <nome>DVORAK, Antonín</nome>
         <id>dvorak-antonin</id>
         <conteudo>
+            <p>Te Deum Op. 103 (Part: Soprano)</p>
+
             <p>Zigeunermelodien Op. 55</p>
             <ul>
                 <li>1. Mein Lied ertönt</li>
@@ -341,6 +391,8 @@
         <nome>FAURÉ, Gabriel</nome>
         <id>faure-brahms</id>
         <conteudo>
+            <p>Requiem Op. 48 (Part: Soprano)</p>
+
             <p>Op. 7</p>
             <ul>
                 <li>1. Après un rêve</li>
@@ -374,6 +426,7 @@
                 <li>II</li>
                 <li>III</li>
             </ul>
+            <p>Salmo 28</p> 
         </conteudo>
     </item>
     <item>
@@ -480,6 +533,8 @@
         <id>gounod-charles</id>
         <conteudo>
             <p>My beloved spake</p>
+
+            <p>St. Cecilia Mass (Part: Soprano)</p>
         </conteudo>
     </item>
     <item>
@@ -515,6 +570,23 @@
         </conteudo>
     </item>
     <item>
+        <nome>HARIZANOS, Nickos</nome>
+        <id>harizanos-nickos</id>
+        <conteudo>
+            <p>
+                Nachts Op. 17<br />
+                On a rocking chair Op. 95<br />
+            </p>
+        </conteudo>
+    </item>
+    <item>
+        <nome>HAYDN, Joseph</nome>
+        <id>haydn-joseph</id>
+        <conteudo>
+            <p>Stabat Mater (Part: Soprano)</p>
+        </conteudo>
+    </item>
+    <item>
         <nome>HERBERT, Victor</nome>
         <id>herbet-victor</id>
         <conteudo>
@@ -544,6 +616,13 @@
                 <li>3. Senza</li>
                 <li>4. Pensamento e Ilusão</li>
             </ul>
+        </conteudo>
+    </item>
+    <item>
+        <nome>JENKINS, Karl</nome>
+        <id>jenkins-karl</id>
+        <conteudo>
+            <p>The Armed Man (Part: Soprano)</p>
         </conteudo>
     </item>
     <item>
@@ -583,6 +662,13 @@
         </conteudo>
     </item>
     <item>
+        <nome>LANGUASCO, Hugo F.</nome>
+        <id>languasco-hugo-f</id>
+        <conteudo>
+            <p>In silentium verbum</p>
+        </conteudo>
+    </item>
+    <item>
         <nome>LAPA, Fernando </nome>
         <id>lapa-fernando</id>
         <conteudo>
@@ -608,6 +694,13 @@
                 Enfant, si j’étais roi<br />
                 Oh quand je dors<br />
             </p>
+        </conteudo>
+    </item>
+    <item>
+        <nome>LOBO DE MESQUITA, José</nome>
+        <id>lobo-de-mesquita-jose</id>
+        <conteudo>
+            <p>Missa Ouro de Minas (Part: Soprano)</p>
         </conteudo>
     </item>
     <item>
@@ -708,11 +801,11 @@
         <conteudo>
             <p>Le Nozze di Figaro (Role: Susanna)</p>
 
-            <p>Requiem (Soprano)</p>
+            <p>Mass Brevis KV 192 (Part: Soprano)</p>
 
-            <p>Mass Brevis KV 192 (Soprano)</p>
+            <p>Mass KV 49 (Part: Soprano)</p>
 
-            <p>Mass KV 49 (Soprano)</p>
+            <p>Requiem (Part: Soprano)</p>
         </conteudo>
     </item>
     <item>
@@ -727,6 +820,13 @@
         <id>oliver-stephen</id>
         <conteudo>
             <p>The Waiter’s Revenge (Role: Girl) </p>
+        </conteudo>
+    </item>
+    <item>
+        <nome>NICOLA, François</nome>
+        <id>nicola-françois</id>
+        <conteudo>
+            <p>Capite+Discentis</p>
         </conteudo>
     </item>
     <item>
@@ -815,6 +915,13 @@
         </conteudo>
     </item>
     <item>
+        <nome>RHEINBERGER, Josef G.</nome>
+        <id>rheinberger-josef-g</id>
+        <conteudo>
+            <p>Stabat Mater Op. 138 (Part: Soprano)</p>
+        </conteudo>
+    </item>
+    <item>
         <nome>ROCHA, Nuno da</nome>
         <id>rocha-nuno-da</id>
         <conteudo>
@@ -857,6 +964,7 @@
         <nome>SAINT-SAËNS, Camille</nome>
         <id>saint-saens-camille</id>
         <conteudo>
+            <p>Oratorio de Noël Op. 12 (Part: Soprano I)</p>
             <p>
                 Si vous n’avez rien à me dire<br />
                 Soirée em mer<br />
@@ -891,6 +999,8 @@
                 Aufósung D807<br />
                 Der Hirt auf dem Felsen D965<br />
             </p>
+             
+            <p>Mass D950 (Part: Soprano)</p>
         
             <p>Op. 59</p>
             <ul>
@@ -946,6 +1056,8 @@
         <nome>SOARES DA COSTA, Rui</nome>
         <id>soares-da-costa-rui</id>
         <conteudo>
+            <p>INEZ (Part: Inez)</p>
+
             <p>Dois Sonetos</p>
             <ul>
                 <li>1. Desejos Vãos</li>
